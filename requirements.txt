@@ -1,3 +1,4 @@
 Flask
 Gunicorn
 bs4
+requests
